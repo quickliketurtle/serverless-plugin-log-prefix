@@ -1,0 +1,23 @@
+{
+  "name": "serverless-plugin-log-prefix",
+  "version": "0.1.0",
+  "description": "Adds service name as prefix to serverless cli log output",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeff Finley <quickliketurtle@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quickliketurtle/serverless-plugin-log-prefix.git"
+  },
+  "bugs": {
+    "url": "https://github.com/quickliketurtle/serverless-plugin-log-prefix/issues"
+  },
+  "homepage": "https://github.com/quickliketurtle/serverless-plugin-log-prefix#readme"
+}
